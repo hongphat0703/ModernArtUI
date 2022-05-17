@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Modern Art UI</string>
+    <string name="action_more_info">More Information</string>
+    <string name="dialog_title">Inspired by the works of Piet Mondrian</string>
+    <string name="dialog_message">Click below to learn more!</string>
+    <string name="not_now">Not now</string>
+    <string name="visit_MOMA">Visit MOMA</string>
+</resources>
